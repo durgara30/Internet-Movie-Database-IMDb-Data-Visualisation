@@ -3,13 +3,17 @@ This assignment involves exploring a list of the 100 highest-rated movies from t
 
 The "IMDb Movie Data Visualization Assignment" is a Python project focused on analyzing and visualizing data sourced from the IMDb movie database. This project incorporates several key features:
 
-## Data Cleaning and Preprocessing: Initially, the raw data from IMDb is subjected to cleaning and preprocessing to enhance its suitability for analysis.
+# Data Cleaning and Preprocessing:
+Initially, the raw data from IMDb is subjected to cleaning and preprocessing to enhance its suitability for analysis.
 
-## Data Exploration and Analysis: The cleaned dataset undergoes thorough exploration and analysis, leveraging Python libraries such as Pandas and NumPy.
+# Data Exploration and Analysis:
+The cleaned dataset undergoes thorough exploration and analysis, leveraging Python libraries such as Pandas and NumPy.
 
-## Data Visualization: The insights derived from the data analysis are transformed into visual representations using Python libraries like Matplotlib and Seaborn.
+# Data Visualization: 
+The insights derived from the data analysis are transformed into visual representations using Python libraries like Matplotlib and Seaborn.
 
-## Interactive User Interface: This project goes a step further by offering an interactive user interface that empowers users to select specific data aspects and visualize them.
+# Interactive User Interface:
+This project goes a step further by offering an interactive user interface that empowers users to select specific data aspects and visualize them.
 
 # Getting Started:
 To commence work with this project, follow these steps:
